@@ -1,6 +1,6 @@
 from .http_request import HttpRequest
 from .http_response import HttpResponse
-from src.main.controllers.tag_creator_controller import TagCreatorController
+from src.controllers.tag_creator_controller import TagCreatorController
 
 class TagCreatorView:
 
